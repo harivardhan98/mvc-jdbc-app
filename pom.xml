@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.hari.web</groupId>
 	<artifactId>mvc-jdbc-app</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>mvc-jdbc-app Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
